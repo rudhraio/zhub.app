@@ -1,0 +1,25 @@
+.background-image {
+    background-image: url("/assets/images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center right;
+}
+
+body {
+    font-family: 'Arimo', sans-serif !important;
+}
+
+/* Additional styling for specific elements */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    font-family: 'Arimo', sans-serif !important;
+}
+
+.moirai-font {
+    font-family: 'Moirai One', sans-serif !important;
+}
